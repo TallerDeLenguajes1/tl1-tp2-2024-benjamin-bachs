@@ -1,0 +1,9 @@
+2) f)   ¿Puede ver el archivo tp2_1_2.c? ¿Por qué? --> No puedo verlo porque el archivo fue commiteado en otra rama
+
+        vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota? --> Ahora el camino se separo en dos, uno es la
+        branch "main" y otro la branch "opcion_2", supongo que es porque ahora la branch "main" tiene cambios que la 
+        branch "opcion_2" no tiene y por lo tanto la branch "main" no es la base de "opcion_2"
+
+        Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota? --> Los dos caminos se volvieron a unir en la
+        branch "main"
+
